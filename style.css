@@ -38,3 +38,22 @@
   button{
     font-family: "Outfit", sans-serif;
   }
+  @media (max-width: 576px) {
+    #dino {
+        display: none !important;
+      }
+      #dino-header {
+        justify-content: space-between !important;
+        padding: 0 20px;
+      }
+      .nav {
+        width: 100%;
+        display: flex;
+        justify-content: space-between !important;
+        padding: 0 !important;
+      }
+      .nav li {
+        list-style: none;
+      }
+  }
+  
