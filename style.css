@@ -24,8 +24,17 @@
     font-style: normal;
   }
  #titles{
-    font-family: "Sigmar", sans-serif;
+    font-family: "Lilita One", sans-serif;
 }
 .info{
     font-family: "Outfit", sans-serif;
 }
+.lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  button{
+    font-family: "Outfit", sans-serif;
+  }
