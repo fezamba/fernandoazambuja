@@ -11,3 +11,4 @@ Link do Site: [Fernando Azambuja](https://fezamba.github.io/fernandoazambuja/)
 ## Futuras adições:
 - Aprimoramento visual
 - Expandir a descrição dos projetos
+- Adicionar seção de formação acadêmica
