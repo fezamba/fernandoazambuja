@@ -9,6 +9,4 @@ Link do Site: [Fernando Azambuja](https://fezamba.github.io/fernandoazambuja/)
 - JavaScript
 
 ## Futuras adições:
-- Aprimoramento visual
-- Expandir a descrição dos projetos
-- Adicionar seção de formação acadêmica
+- Animações no site.
